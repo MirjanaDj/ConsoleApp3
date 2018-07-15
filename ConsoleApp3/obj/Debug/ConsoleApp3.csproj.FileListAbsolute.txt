@@ -17,3 +17,4 @@ c:\users\djuric\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.cspro
 c:\users\djuric\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CopyComplete
 c:\users\djuric\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
 c:\users\djuric\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\Djuric\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
